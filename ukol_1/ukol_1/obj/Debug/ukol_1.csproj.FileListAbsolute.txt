@@ -1,0 +1,7 @@
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\bin\Debug\ukol_1.exe.config
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\bin\Debug\ukol_1.exe
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\bin\Debug\ukol_1.pdb
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\obj\Debug\ukol_1.csprojAssemblyReference.cache
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\obj\Debug\ukol_1.csproj.CoreCompileInputs.cache
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\obj\Debug\ukol_1.exe
+C:\Users\bruthans.kr.2022\source\repos\ukol_1\ukol_1\obj\Debug\ukol_1.pdb
